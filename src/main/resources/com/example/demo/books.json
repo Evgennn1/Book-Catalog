@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Война и мир",
+    "price": "19.99",
+    "location": "Полка 1",
+    "quantity": 5,
+    "reserved": false,
+    "userName": null
+  },
+  {
+    "name": "Преступление и наказание",
+    "price": "29.99",
+    "location": "Полка 2",
+    "quantity": 8,
+    "reserved": true,
+    "userName": "Пользователь 1"
+  },
+  {
+    "name": "Мастер и Маргарита",
+    "price": "14.99",
+    "location": "Полка 3",
+    "quantity": 12,
+    "reserved": false,
+    "userName": null
+  },
+  {
+    "name": "1984",
+    "price": "24.99",
+    "location": "Полка 2",
+    "quantity": 3,
+    "reserved": true,
+    "userName": "Пользователь 2"
+  },
+  {
+    "name": "Три товарища",
+    "price": "17.99",
+    "location": "Полка 1",
+    "quantity": 10,
+    "reserved": false,
+    "userName": null
+  },
+  {
+    "name": "Маленький принц",
+    "price": "39.99",
+    "location": "Полка 4",
+    "quantity": 7,
+    "reserved": true,
+    "userName": "Пользователь 3"
+  },
+  {
+    "name": "Анна Каренина",
+    "price": "21.99",
+    "location": "Полка 3",
+    "quantity": 15,
+    "reserved": false,
+    "userName": null
+  },
+  {
+    "name": "Гарри Поттер и философский камень",
+    "price": "32.99",
+    "location": "Полка 4",
+    "quantity": 2,
+    "reserved": false,
+    "userName": null
+  },
+  {
+    "name": "Властелин колец",
+    "price": "27.99",
+    "location": "Полка 2",
+    "quantity": 6,
+    "reserved": true,
+    "userName": "Пользователь 4"
+  },
+  {
+    "name": "Айвенго",
+    "price": "27.99",
+    "location": "Полка 2",
+    "quantity": 6,
+    "reserved": true,
+    "userName": "Пользователь 4"
+  },
+  {
+    "name": "Братья Карамазовы",
+    "price": "27.99",
+    "location": "Полка 2",
+    "quantity": 6,
+    "reserved": true,
+    "userName": "Пользователь 4"
+  },
+  {
+    "name": "400 градусов по Фаренгейту",
+    "price": "27.99",
+    "location": "Полка 2",
+    "quantity": 6,
+    "reserved": true,
+    "userName": "Пользователь 4"
+  },
+  {
+    "name": "Гарри Поттер и узник Азкабана",
+    "price": "27.99",
+    "location": "Полка 2",
+    "quantity": 6,
+    "reserved": true,
+    "userName": "Пользователь 4"
+  },
+  {
+    "name": "Сто лет одиночества",
+    "price": "14.99",
+    "location": "Полка 1",
+    "quantity": 9,
+    "reserved": false,
+    "userName": null
+  },
+  {
+    "name": "10 ошибок Людей",
+    "price": "14.99",
+    "location": "Полка 5",
+    "quantity": 9,
+    "reserved": false,
+    "userName": null
+  },
+  {
+    "name": "Гарри Поттер и тайная Комната",
+    "price": "10.99",
+    "location": "Полка 2",
+    "quantity": 1,
+    "reserved": false,
+    "userName": null
+  },
+  {
+    "name": "Чистый код",
+    "price": "25.99",
+    "location": "Полка 1",
+    "quantity": 2,
+    "reserved": false,
+    "userName": null
+  }
+]
